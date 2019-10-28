@@ -1,0 +1,10 @@
+export PATH=/home/yanan/anaconda3/bin:$PATH
+export LD_LIBRARY_PATH=/home/yanan/local/lib:/usr/local/cuda/lib64:$LD_LIBRARY_PATH
+export PATH=$PATH:/usr/local/cuda/bin to
+#export LD_LIBRARY_PATH=/home/yanan/local/crfsuite/lib:$LD_LIBRARY_PATH
+export SUMO_HOME=/home/yanan/sumo-0_32_0
+#export PATH=/home/yanan/cmake-3.12.2-Linux-x86_64/bin:$PATH
+#export LD_LIBRARY_PATH=/home/yanan/local/lib
+export PATH=/home/yanan/local/bin:$PATH
+export PATH=/home/yanan/local/lib:$PATH
+#export PATH=/usr/bin:$PATH

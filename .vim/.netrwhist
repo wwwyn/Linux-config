@@ -1,0 +1,4 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =2
+let g:netrw_dirhist_1='/home/yanan/PycharmProjects/Multiagent-TSL/LOGs/ST_DQN_separate_base_no_eps_u_64_b_64_new_r_linear'
+let g:netrw_dirhist_2='/home/yanan/PycharmProjects/Multiagent-TSL/LOGs/tim_graph_eps_0.05_act_10_unit_64_l_2_elu_dqn_att_elu_b_32'
